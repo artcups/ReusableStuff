@@ -1,4 +1,4 @@
-# fetchedcache
+# cached fetch
 
 I cant remember where i got the inspirtation for this, its a bit jquery for some... take it if you want it :)
 
