@@ -1,5 +1,5 @@
 # Checklist
-1. 	Pre-connect to external recources: <link rel="preconnect" href="https://cert.tryggehandel.net">
+1. 	Pre-connect to external recources: `<link rel="preconnect" href="https://cert.tryggehandel.net">`
 
 
 # Non blocking css
